@@ -1,0 +1,4 @@
+GEEKWILLER_TEST_TELECHARGEMENT_V1_5
+Ce fichier texte confirme uniquement le telechargement depuis GitHub.
+Il ne contient ni logiciel ni donnees de caisse.
+Aucune installation ne doit etre lancee.
